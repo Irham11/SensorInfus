@@ -1,0 +1,3 @@
+Masukin nomor Rekam Medis
+Masuk ke kolom bed yang ada pada RM tersebut
+baru deteksi tetesan
